@@ -68,5 +68,7 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 
 <a id='7'></a>
 # Contact
+For any questions or feedback, please reach out via email.
+
 * LinkedIn - https://www.linkedin.com/in/manoj-choudhary-978073216/
 * Gmail - manojchoudhary2d@gmail.com
